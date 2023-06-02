@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @davidterrell80
+- 👀 I’m interested in creating and implimenting Ontologies.
+- 🌱 I’m currently pursuing the Marklogic Developer and Arthitect certifications.
+- 💞️ I’m looking to collaborate on lessons learned when implementing Marklogic Data Hubs.
